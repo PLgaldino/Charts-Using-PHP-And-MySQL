@@ -47,14 +47,24 @@
                         <div class="col-md-8">
                             <div class="card ">
                                 <div class="card-header ">
-                                    <!-- <h4 class="card-title">Users Behavior</h4>
-                                    <p class="card-Companyegory">24 Hours performance</p> -->
+                                    <p class="card-Companyegory">Search</p>
                                 </div>
                                 <div class="card-body ">
-
-                                </div>
-                                <div class="card-footer ">
-
+                                    <div class = "row">
+                                        <div class="col-md-6 col-sm-12">
+                                            <select>
+                                                <option>2019</option>
+                                                <option>2020</option>
+                                            </select>
+                                            <select>
+                                                <option>1</option>
+                                                <option>2</option>
+                                            </select>
+                                        </div>
+                                        <div class="col-md-6 col-sm-12">
+                                            <input type="text" name="" value="" placeholder="City"><br>
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
                         </div>
